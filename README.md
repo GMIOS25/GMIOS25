@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmios25&" alt="gmios25" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmios25&](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gmios25&theme=transparent" alt="gmios25" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gmios25&theme=transparent" alt="gmios25" /></p>
