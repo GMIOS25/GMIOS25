@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gmios25&show_icons=true&locale=en" alt="gmios25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmios25&" alt="gmios25" /></p>
+
+![](https://raw.githubusercontent.com/gmios25/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/0-profile-details.svg)
