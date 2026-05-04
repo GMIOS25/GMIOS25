@@ -18,5 +18,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gmios25&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmios25/gmios25/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmios25/gmios25/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gmios25/gmios25/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 [![](https://komarev.com/ghpvc/?username=gmios25&icon=0&color=0)](https://visitcount.itsvg.in)
