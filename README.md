@@ -166,7 +166,7 @@ _Learner / Full-stack Software Engineer_
 <img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
 </a> -->
 
-<a href="https://www.githubcom/gmios25" target="_blank">
+<a href="https://www.github.com/gmios25" target="_blank">
 <img src="./github.png" width=50 height=50 alt="gmios25" style="margin-bottom: 5px;" />
 </a>
 
