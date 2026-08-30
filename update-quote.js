@@ -9,7 +9,7 @@ async function updateQuote() {
     const cardDesign = `
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=${encodeURIComponent(author)}&quote=${encodeURIComponent(quote)}&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=${encodeURIComponent(author)}&quote=${encodeURIComponent(quote)}&theme=dark&bg_color=0a0f0d&author_color=39d353&accent_color=00ff66">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 `;

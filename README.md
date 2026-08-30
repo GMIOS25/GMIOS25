@@ -27,9 +27,7 @@ _Learner / Full-stack Software Engineer_
   <!--End Intro-->
 
 <!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gmios25&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="gmios25" style="padding-right:20px;" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=gmios25&label=Profile%20views&color=22c55e&style=for-the-badge&logo=star" alt="gmios25" style="padding-right:20px;" />
 
 ---
 
@@ -75,7 +73,7 @@ _Learner / Full-stack Software Engineer_
 <p align="center">
   <a href="https://github.com/gmios25">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=gmios25&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=gmios25&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=matrix">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=gmios25&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
       <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=gmios25&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
@@ -100,7 +98,7 @@ _Learner / Full-stack Software Engineer_
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/gmios25">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=gmios25&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=gmios25&count_private=true&show_icons=true&theme=dark&bg_color=0a0f0d&title_color=39d353&icon_color=ffeb95&text_color=ffffff&border_color=22c55e&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -108,17 +106,17 @@ _Learner / Full-stack Software Engineer_
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/gmios25">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=gmios25&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=gmios25&theme=dark&background=0a0f0d&border=22c55e&fire=ffeb95&ring=39d353&sideNums=ffffff&sideLabels=39d353&dates=86efac&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>LANGUAGE USED</strong></h3>
       <p align="center">
         <a href="https://github.com/gmios25/WEB-GIS-TEMPLATE">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=gmios25&repo=WEB-GIS-TEMPLATE&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="WEB-GIS-TEMPLATE" />
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=gmios25&layout=compact&theme=dark&bg_color=0a0f0d&title_color=39d353&text_color=ffffff&border_color=22c55e" alt="Top Languages" />
         </a>
       </p>
     </td>
@@ -126,7 +124,7 @@ _Learner / Full-stack Software Engineer_
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/gmios25">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=gmios25&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=gmios25&limit=2&theme=dark&show_owner=true&combine_all_yearly_contributions=false&bg_color=0a0f0d&title_color=39d353&text_color=ffffff&border_color=22c55e" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -137,7 +135,7 @@ _Learner / Full-stack Software Engineer_
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmios25&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmios25&bg_color=0a0f0d&color=ffffff&line=00ff66&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
@@ -147,7 +145,7 @@ _Learner / Full-stack Software Engineer_
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oscar%20Wilde&quote=Every%20saint%20has%20a%20past%2C%20and%20every%20sinner%20has%20a%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Oscar%20Wilde&quote=Every%20saint%20has%20a%20past%2C%20and%20every%20sinner%20has%20a%20future.&theme=dark&bg_color=0a0f0d&author_color=39d353&accent_color=00ff66">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
@@ -156,36 +154,32 @@ _Learner / Full-stack Software Engineer_
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+<a href="mailto:tranthanhcuongit@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="tranthanhcuongit@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/kiran__a__n" target="_blank">
+<!-- <a href="https://x.com/kiran__a__n" target="_blank">
 <img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
-</a>
+</a> -->
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
+<!-- <a href="https://www.instagram.com/kiran_a_n" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
-</a>
+</a> -->
 
 <a href="https://www.githubcom/gmios25" target="_blank">
 <img src="./github.png" width=50 height=50 alt="gmios25" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+<a href="https://discord.com/users/418647317462122496" target="_blank">
+<img src="./discord.png" width=50 height=50 alt="gmios25" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/thanhcuong2508/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://dev.to/dev_kiran" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
-</a>
 </div>
 <br/>
-
-<!--Buy me a coffee-->
-<div align="center">
-<a href="https://www.buymeacoffee.com/gmios25" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
 
 <!--Footer-->
 <p align="center">
