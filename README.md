@@ -2,9 +2,9 @@
 
 ![GMIOS25 Banner Image](./banner.png)
 
-<!--Night Owl image-->
+<!-- This is fine Meme -->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="35%" src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" />
 </div>
 
 <!--Header Name-->
